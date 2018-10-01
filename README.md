@@ -1,14 +1,16 @@
 # NAME
 
-Acme::Test::MetaCPAN::NoContributingDoc - It's new $module
-
-# SYNOPSIS
-
-    use Acme::Test::MetaCPAN::NoContributingDoc;
+Acme::Test::MetaCPAN::NoContributingDoc - Test module for MetaCPAN `/contributing-to`
 
 # DESCRIPTION
 
-Acme::Test::MetaCPAN::NoContributingDoc is ...
+Acme::Test::MetaCPAN::NoContributingDoc is a dummy test dist that **does
+not** contain a `CONTRIBUTING` file, for testing `/contributing-to`
+path placeholder text.
+
+# SEE ALSO
+
+[https://metacpan.org/contributing-to/Acme-Test-MetaCPAN-NoContributingDoc](https://metacpan.org/contributing-to/Acme-Test-MetaCPAN-NoContributingDoc)
 
 # LICENSE
 
